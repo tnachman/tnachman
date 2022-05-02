@@ -1,4 +1,9 @@
-### Hi there 👋
+# Tyler Nachman
+### Fourth Year Business Analytics & Information Systems Student
+### University of Iowa, Tippie College of Business
+
+[LinkedIn](https://www.linkedin.com/tylernachman)
+
 
 <!--
 **tnachman/tnachman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
