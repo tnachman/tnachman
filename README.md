@@ -1,6 +1,6 @@
 # Tyler Nachman
-### Fourth Year Business Analytics & Information Systems Student
-### University of Iowa, Tippie College of Business
+### B.B.A Business Analytics & Information Systems
+### University of Iowa Alum
 
 [LinkedIn](https://www.linkedin.com/in/tyler-nachman)
 
