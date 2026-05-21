@@ -1,4 +1,4 @@
-# Tyler Nachman
+# Tyler
 ### B.B.A Business Analytics & Information Systems
 ### University of Iowa Alum
 
