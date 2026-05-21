@@ -2,7 +2,7 @@
 ### B.B.A Business Analytics & Information Systems
 ### University of Iowa Alum
 
-[LinkedIn](https://www.linkedin.com/in/tyler-nachman)
+<!-- [LinkedIn](https://www.linkedin.com/in/tyler-nachman)
 
 
 <!--
